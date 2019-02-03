@@ -55,6 +55,14 @@ How does anxiety affect information processing during elections? How do anxiety 
 - U.S. Census
 
 
+<!-- 
+Sam, 
+Given your interests, ANES seems like a really solid choice, but there is a lot there, so you will want to identify the items that best capture anxiety and information processing. If you need a place to start, you could grab the items used here: https://www.washingtonpost.com/news/monkey-cage/wp/2017/08/03/resentful-white-people-propelled-trump-to-the-white-house-and-he-is-rewarding-their-loyalty/?noredirect=on&utm_term=.4fbcd3dd3791
+When you have a list of items you want, let me know if you want help loading the ANES into R, selecting the items you want, and saving that smaller data file in your 811/data subfolder. 
+Best,
+Devin
+-->
+
 ---
 
 
